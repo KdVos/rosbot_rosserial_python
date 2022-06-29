@@ -1,12 +1,11 @@
 <package>
-  <name>rosserial_python</name>
+  <name>rosbot_rosserial_python </name>
   <version>0.9.2</version>
   <description>
     A Python-based implementation of the rosserial protocol.
   </description>
-  <author>Michael Ferguson</author>
-  <maintainer email="paul.bouchier@gmail.com">Paul Bouchier</maintainer>
-  <maintainer email="mpurvis@clearpathrobotics.com">Mike Purvis</maintainer>
+  <author>firstname lastname</author>
+  <maintainer email="example@email.com">firstname lastname</maintainer>
   <license>BSD</license>
   <url>http://ros.org/wiki/rosserial_python</url>
 
